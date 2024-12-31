@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Video{
+    background-image: url('component/image/WWW.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
